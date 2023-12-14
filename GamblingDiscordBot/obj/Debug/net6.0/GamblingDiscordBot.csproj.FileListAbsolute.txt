@@ -1,0 +1,80 @@
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.exe
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.deps.json
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.runtimeconfig.json
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.pdb
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.AssemblyReference.cache
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.AssemblyInfo.cs
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.CopyComplete
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\refint\GamblingDiscordBot.dll
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.pdb
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.genruntimeconfig.cache
+C:\Users\Zacat\OneDrive\Documents\Coding ig\C#\Gambling Discord Bot\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\ref\GamblingDiscordBot.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.exe
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.deps.json
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.runtimeconfig.json
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\GamblingDiscordBot.pdb
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.AssemblyReference.cache
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.AssemblyInfoInputs.cache
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.AssemblyInfo.cs
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.csproj.CopyComplete
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\refint\GamblingDiscordBot.dll
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.pdb
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\GamblingDiscordBot.genruntimeconfig.cache
+C:\Users\zacat\OneDrive\GamblingDiscordBot\GamblingDiscordBot\obj\Debug\net6.0\ref\GamblingDiscordBot.dll
